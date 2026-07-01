@@ -1,3 +1,6 @@
 jupyter
 pandas
 matplotlib
+
+# git hygiene, not a lesson dependency: strips notebook outputs before commit
+nbstripout
